@@ -8,3 +8,6 @@ const schema = Schema({
 });
 
 module.exports = model("afk", schema);
+
+
+// Örnek bir schema dir bilerek katdım anlıyın die
