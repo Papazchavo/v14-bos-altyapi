@@ -1,0 +1,13 @@
+{ 
+    "mongoUrl": "",
+    "token": "",
+    "BotClientID": "",
+    "prefix": ["."],
+    "GuildID": "",
+    "owners": [""],
+
+
+    "BotDurum": [""], 
+    "BotSesKanal": ""
+
+}

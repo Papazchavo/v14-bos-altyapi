@@ -1,0 +1,19 @@
+{
+  "name": "v14-papaz-altyapi",
+  "version": "v1.0.0",
+  "description": "V14 Altyapı Mongo sistemli.",
+  "author": "V14 Boş Altyapı",
+  "main": "papaz.js",
+  "scripts": {
+    "start": "node papaz.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "discord-api-types": "^0.37.101",
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.7.0"
+  }
+}
