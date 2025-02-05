@@ -95,6 +95,7 @@ Aşağıda botunuzun sunucu bağlantı resmi bulunmaktadır:
 
 [![Discord Banner](https://api.weblutions.com/discord/invite/devcode/)](https://discord.gg/devcode)
 </table>
+
 ## Yapımcılar
 
 - **papazchavo.**
