@@ -89,8 +89,12 @@ Botun **MongoDB** ile çalışması için MongoDB veritabanını ayarlamanız ge
 
 Aşağıda botunuzun sunucu bağlantı resmi bulunmaktadır:
 
-![Sunucu Bağlantı Resmi](https://media.discordapp.net/attachments/1157767204285190317/1290841104555446292/70FE1515-0896-4757-ABBD-51B34EF5678D.png?ex=66fdecf5&is=66fc9b75&hm=1d21d5392995ded45311e2728172352dbece451a6715ee3d2f82c7915ce86c7d&=&format=webp&quality=lossless&width=242&height=101)
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
 
+[![Discord Banner](https://api.weblutions.com/discord/invite/devcode/)](https://discord.gg/devcode)
+</table>
 ## Yapımcılar
 
 - **papazchavo.**
